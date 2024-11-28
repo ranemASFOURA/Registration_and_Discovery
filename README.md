@@ -1,6 +1,4 @@
-Here is a detailed example of a `README.md` file for the provided project:
 
-```markdown
 # Registration and Discovery Service
 
 This project implements a **Registration and Discovery Service** using **Apache ZooKeeper** for distributed systems. The service supports leader election and service discovery by leveraging ZooKeeper's features, enabling high availability and fault tolerance.
